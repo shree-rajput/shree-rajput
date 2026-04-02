@@ -1,4 +1,4 @@
-# Hi, I'm Shree Rajput
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=000000&center=true&vCenter=true&width=500&lines=Hi,+I'm+Shree+Rajput;Full+Stack+Developer;MERN+Stack+Learner;AI+Enthusiast)](https://git.io/typing-svg)
 
 Frontend Developer | MERN Stack Learner | AI Enthusiast
 
@@ -62,12 +62,5 @@ MongoDB | SQL
 ## Contact
 
 * Email: [shreerajputt4509@gmail.com](mailto:your-email@gmail.com)
-* LinkedIn: add-your-link
 
----
 
-## Note
-
-Focused on building practical, scalable, and user-friendly applications.
-
--->
