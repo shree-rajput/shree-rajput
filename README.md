@@ -1,16 +1,73 @@
-## Hi there 👋
+# Hi, I'm Shree Rajput
 
-<!--
-**shree-rajput/shree-rajput** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer | MERN Stack Learner | AI Enthusiast
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## About Me
+
+* Building real-world full-stack web applications
+* Integrating AI features (Groq API) into projects
+* Actively looking for a Software Development Internship
+* Improving React, Backend, and Problem Solving skills
+
+---
+
+## Featured Projects
+
+### Apna Video Call (Zoom-like Platform)
+
+Live: [https://apnavideocallfrontend-2.onrender.com/](https://apnavideocallfrontend-2.onrender.com/)
+
+* Real-time video calling web application
+* Lightweight alternative focused on simplicity and performance
+* Easy room creation and joining system
+* Clean and responsive user interface
+
+---
+
+### AcroNotes (AI Notes Generator)
+
+* Generates structured notes using AI (Groq API)
+* Simplifies complex topics into easy-to-understand content
+* Fast response with clean UI
+* Designed to improve productivity and learning efficiency
+
+---
+
+## Tech Stack
+
+**Frontend:**
+JavaScript | React | Tailwind.css
+
+**Backend:**
+Node.js | Express.js
+
+**Tools:**
+Git | GitHub | REST APIs | Postman | Docker | Canva 
+
+**Database:** 
+MongoDB | SQL
+
+---
+
+## Currently Working On
+
+* AI-based Notes and Quiz Generator
+* Enhancing full-stack project quality
+* Preparing for technical interviews
+
+---
+
+## Contact
+
+* Email: [shreerajputt4509@gmail.com](mailto:your-email@gmail.com)
+* LinkedIn: add-your-link
+
+---
+
+## Note
+
+Focused on building practical, scalable, and user-friendly applications.
+
 -->
