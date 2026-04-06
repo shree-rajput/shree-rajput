@@ -1,4 +1,4 @@
-#[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=FFD700&center=true&vCenter=true&width=500&lines=Hi,+I'm+Shree+Rajput;Hi,+I'm+Full+Stack+Developer;Hi,+I'm+MERN+Stack+Learner;Hi,+I'm+AI+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=FFD700&center=true&vCenter=true&width=500&lines=Hi,+I'm+Shree+Rajput;Hi,+I'm+Full+Stack+Developer;Hi,+I'm+MERN+Stack+Learner;Hi,+I'm+AI+Enthusiast)](https://git.io/typing-svg)
 
 Frontend Developer | MERN Stack Learner | AI Enthusiast
 
