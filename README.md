@@ -33,8 +33,6 @@ Live: [https://apnavideocallfrontend-2.onrender.com/](https://apnavideocallfront
 * Fast response with clean UI
 * Designed to improve productivity and learning efficiency
 
----
-
 ## Tech Stack
 
 **Frontend:**
