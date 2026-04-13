@@ -5,9 +5,7 @@ Frontend Developer | MERN Stack Learner | AI Enthusiast
 ## About Me
 
 * Building real-world full-stack web applications
-* Integrating AI features (Groq API) into projects
 * Actively looking for a Software Development Internship
-* Improving React, Backend, and Problem Solving skills
 
 ## Featured Projects
 
