@@ -2,16 +2,12 @@
 
 Frontend Developer | MERN Stack Learner | AI Enthusiast
 
----
-
 ## About Me
 
 * Building real-world full-stack web applications
 * Integrating AI features (Groq API) into projects
 * Actively looking for a Software Development Internship
 * Improving React, Backend, and Problem Solving skills
-
----
 
 ## Featured Projects
 
@@ -23,8 +19,6 @@ Live: [https://apnavideocallfrontend-2.onrender.com/](https://apnavideocallfront
 * Lightweight alternative focused on simplicity and performance
 * Easy room creation and joining system
 * Clean and responsive user interface
-
----
 
 ### AcroNotes (AI Notes Generator)
 
@@ -47,15 +41,11 @@ Git | GitHub | REST APIs | Postman | Docker | Canva
 **Database:** 
 MongoDB | SQL
 
----
-
 ## Currently Working On
 
 * AI-based Notes and Quiz Generator
 * Enhancing full-stack project quality
 * Preparing for technical interviews
-
----
 
 ## Contact
 
