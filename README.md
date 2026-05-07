@@ -25,28 +25,33 @@ Live: [https://apnavideocallfrontend-2.onrender.com/](https://apnavideocallfront
 * Fast response with clean UI
 * Designed to improve productivity and learning efficiency
 
-## Tech Stack
+## 🚀 Tech Stack
 
-**Frontend:**
-JavaScript | React | Tailwind.css
+### 🎨 Frontend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,react,tailwind" />
+</p>
 
-**Backend:**
-Node.js | Express.js
+### ⚙️ Backend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
 
-**Tools:**
-Git | GitHub | REST APIs | Postman | Docker | Canva 
+### 🛠️ Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,postman,docker" />
+</p>
 
-**Database:** 
-MongoDB | SQL
+<p align="left">
+  <img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+</p>
 
-## Currently Working On
-
-* AI-based Notes and Quiz Generator
-* Enhancing full-stack project quality
-* Preparing for technical interviews
+### 🗄️ Database
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
 
 ## Contact
 
 * Email: [shreerajputt4509@gmail.com](mailto:your-email@gmail.com)
-
-
