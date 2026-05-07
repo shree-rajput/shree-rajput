@@ -20,6 +20,7 @@ Live: [https://apnavideocallfrontend-2.onrender.com/](https://apnavideocallfront
 
 ### AcroNotes (AI Notes Generator)
 
+Live: [https://acro-notes.vercel.app/](https://acro-notes.vercel.app/)
 * Generates structured notes using AI (Groq API)
 * Simplifies complex topics into easy-to-understand content
 * Fast response with clean UI
