@@ -12,18 +12,11 @@ Frontend Developer | MERN Stack Learner | AI Enthusiast
 ### Apna Video Call (Zoom-like Platform)
 
 Live: [https://apnavideocallfrontend-2.onrender.com/](https://apnavideocallfrontend-2.onrender.com/)
-
 * Real-time video calling web application
-* Lightweight alternative focused on simplicity and performance
-* Easy room creation and joining system
-* Clean and responsive user interface
-
+  
 ### AcroNotes (AI Notes Generator)
 
 Live: [https://acro-notes.vercel.app/](https://acro-notes.vercel.app/)
-* Generates structured notes using AI (Groq API)
-* Simplifies complex topics into easy-to-understand content
-* Fast response with clean UI
 * Designed to improve productivity and learning efficiency
 
 ## 🚀 Tech Stack
