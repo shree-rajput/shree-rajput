@@ -9,16 +9,16 @@ Frontend Developer | MERN Stack Learner | AI Enthusiast
 
 ## Featured Projects
 
+### AcroNotes
+
+Live: [https://acro-notes.vercel.app/](https://acro-notes.vercel.app/)
+* Designed to improve productivity and learning efficiency
+
 ### Live Connect
 
 Live: [https://apnavideocallfrontend-2.onrender.com/](https://apnavideocallfrontend-2.onrender.com/)
 * Real-time video calling web application
   
-### AcroNotes (AI Notes Generator)
-
-Live: [https://acro-notes.vercel.app/](https://acro-notes.vercel.app/)
-* Designed to improve productivity and learning efficiency
-
 ## 🚀 Tech Stack
 
 ### 🎨 Frontend
