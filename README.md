@@ -9,7 +9,7 @@ Frontend Developer | MERN Stack Learner | AI Enthusiast
 
 ## Featured Projects
 
-### Apna Video Call (Zoom-like Platform)
+### Live Connect
 
 Live: [https://apnavideocallfrontend-2.onrender.com/](https://apnavideocallfrontend-2.onrender.com/)
 * Real-time video calling web application
