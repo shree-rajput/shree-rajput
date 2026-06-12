@@ -5,7 +5,7 @@ Frontend Developer | MERN Stack Learner | AI Enthusiast
 ## About Me
 
 * Building real-world full-stack web applications
-* Actively looking for a Software Development Internship
+* Actively looking for a Software Development Roles
 
 ## Featured Projects
 
@@ -49,3 +49,4 @@ Live: [https://apnavideocallfrontend-2.onrender.com/](https://apnavideocallfront
 ## Contact
 
 * Email: [shreerajputt4509@gmail.com](mailto:your-email@gmail.com)
+* LinkedIn : https://in.linkedin.com/in/shree-rajput
