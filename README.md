@@ -2,6 +2,8 @@
 
 Frontend Developer | Problem Solver | AI Enthusiast
 
+![Profile Views](https://komarev.com/ghpvc/?username=shree-rajput)
+
 ## About Me
 
 * Building real-world full-stack web applications
