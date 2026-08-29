@@ -8,18 +8,6 @@ Frontend Developer | Problem Solver | AI Enthusiast
 
 * Building real-world full-stack web applications
 * Actively looking for a Software Development Roles
-
-## Featured Projects
-
-### AcroNotes
-
-Live: [https://acro-notes.vercel.app/](https://acro-notes.vercel.app/)
-* Designed to improve productivity and learning efficiency
-
-### Live Connect
-
-Live: [https://apnavideocallfrontend-2.onrender.com/](https://apnavideocallfrontend-2.onrender.com/)
-* Real-time video calling web application
   
 ## 🚀 Tech Stack
 
