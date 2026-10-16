@@ -23,7 +23,12 @@ FullStack Developer | Problem Solver | AI Enthusiast
 
 ### 🛠️ Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,postman,docker" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+### DataBases
+<p align="left">
+  
 </p>
 
 <p align="left">
