@@ -13,12 +13,12 @@ FullStack Developer | Problem Solver | AI Enthusiast | Software Engineer
 
 ### 🎨 Frontend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,react,tailwind" />
+  <img src="https://skillicons.dev/icons?i=js,react,tailwind"/>
 </p>
 
 ### ⚙️ Backend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express"/>
 </p>
 
 ### 🛠️ Tools
