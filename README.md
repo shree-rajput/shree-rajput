@@ -23,7 +23,7 @@ FullStack Developer | Problem Solver | AI Enthusiast | Software Engineer
 
 ### 🛠️ Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,postman,git,github" />
+  <img src="https://skillicons.dev/icons?i=docker,postman,git,github"/>
 </p>
 
 ### API's
